@@ -1,4 +1,4 @@
-# Goal-Scoring
+# NHL-Goal-Scoring
 Some analysis in to what goes in to scoring goals in the NHL. 
 
 This is some rudimentary analsysis in to how shots on net affects goal scoring in the NHL.
